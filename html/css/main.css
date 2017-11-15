@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");h1 {
+	font-family: "Roboto", sans-serif;
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 1.1;
+	text-align: center;
+	color: #323a41;
+}
+
+h1.inverted {
+	color: #ffffff;
+}
+
+h2 {
+	font-family: "Roboto", sans-serif;
+	font-size: 36px;
+	line-height: 1.11;
+	color: #323a41;
+}
+
+h2.inverted {
+	color: #ffffff;
+}
+
+h3 {
+	font-family: "Roboto", sans-serif;
+	font-size: 30px;
+	text-align: left;
+	color: #8c1125;
+}
+
+h3.inverted {
+	color: #ffffff;
+}
+
+h4 {
+	font-family: "Roboto", sans-serif;
+	font-size: 26px;
+	line-height: 1.15;
+	text-align: left;
+	color: #323a41;
+}
+
+h4.inverted {
+	color: #ffffff;
+}
+
+body,
+p,
+li {
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+	line-height: 1.53;
+	color: #6D89A1;
+}
+
+body.inverted,
+p.inverted,
+li.inverted {
+	color: #ffffff;
+}
+
+a {
+	font-family: "Roboto", sans-serif;
+	font-size: 18px;
+	text-align: left;
+	text-decoration: underline;
+	font-style: inherit;
+	outline: none;
+	color: #074679;
+}
+
+a:hover {
+	color: #074679;
+}
+
+@media (max-width: 768px) {
+
+h1 {
+	font-size: 36px;
+	line-height: 1.11;
+}
+
+h2 {
+	font-size: 32px;
+	line-height: 1.12;
+}
+
+h3 {
+	font-size: 26px;
+}
+
+h4 {
+	font-size: 22px;
+	line-height: 1.18;
+}
+
+}
+
