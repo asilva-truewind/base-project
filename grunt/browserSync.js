@@ -6,7 +6,7 @@ module.exports = {
       "<%= cfg.root %><%= cfg.dest.styles %>**/*.css",
       "<%= cfg.root %><%= cfg.dest.html %>**/*.html",
       "<%= cfg.root %><%= cfg.dest.scripts %>**/*.js",
-      "<%= cfg.root %>index.html",
+      "index.html",
       "Gruntfile.js"
     ]
   },
@@ -17,7 +17,7 @@ module.exports = {
     timestamps: false,
     server: {
       baseDir: [
-        "<%= cfg.root %>",
+        "",
         "<%= cfg.root %><%= cfg.dest.html %>"
       ]
     }

@@ -1,5 +1,5 @@
-# TSLT Components Guide
-Front-end project to support html elements to be developed in Outsystems
+# TW 
+Front-end project experiment
 
 ## Components
   * [postcss](https://github.com/nDmitry/grunt-postcss)
@@ -83,39 +83,3 @@ e.g.:
  UI External: http://192.168.4.212:3001
  --------------------------------------
 ```
-
-## Browser Support
-* Mozilla Firefox 5+
-* Google Chrome 14+
-* Safari 5+
-* Opera 11+
-* Internet Explorer 9+
-
-## Versioning
-This project uses MAJOR.MINOR.PATCH [Semantic Versioning](http://semver.org/).
-
-## Licensing
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <http://unlicense.org/>
